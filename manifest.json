@@ -1,7 +1,7 @@
 {
-    "name": "cats and dogs app",
-    "short_name": "cats and dogs",
-    "description": "this app loves cats and dogs",
+    "name": "The Big Insect app",
+    "short_name": " The Big Insect",
+    "description": "this wants insects to attack romania",
     "display": "standalone",
     "background_color": "#123456",
     "theme_color": "#f3f3f3",
