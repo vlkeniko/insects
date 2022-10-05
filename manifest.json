@@ -1,11 +1,11 @@
 {
-    "name": "The Big Insect app",
-    "short_name": " The Big Insect",
-    "description": "this wants insects to attack romania",
+    "name": "It is all insects.",
+    "short_name": "My insects",
+    "description": "This app loves insects",
     "display": "standalone",
-    "background_color": "#123456",
-    "theme_color": "#f3f3f3",
-    "icons": [
+    "background_color" : "#ffffff",
+    "theme_color": "#d676ff",
+    "icons" : [
         {
             "src": "icon-192.png",
             "sizes": "192x192",
